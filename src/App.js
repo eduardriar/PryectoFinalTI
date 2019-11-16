@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Producción prueba
+          Infraestructura de TI
         </p>
         <a
           className="App-link"
@@ -22,7 +22,5 @@ function App() {
     </div>
   );
 }
-
-errorrr
 
 export default App;
